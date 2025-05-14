@@ -1,12 +1,70 @@
-# React + Vite
+# PetMatch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
 
-Currently, two official plugins are available:
+**PetMatch** é uma aplicação web interativa inspirada em apps de swipe, como o Tinder, mas com um propósito mais nobre:
+facilitar a conexão entre pessoas e pets disponíveis para adoção.
+<br>
+<br>
+Desenvolvido com **React**, **Vite** e **Framer Motion**, o projeto oferece uma navegação fluida, responsiva e moderna.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
+---
 
-## Expanding the ESLint configuration
+## Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+<br>
+
+*✔ Swipe interativo* para curtir ou recusar pets.
+(br>
+
+*✔ Modal* com informações detalhadas do pet.
+<br>
+
+*✔ Sistema de favoritos* que preenche a pata ao ser acionada.
+<br>
+
+*✔ Layout responsivo e animações suaves* com framer motion.
+<br>
+
+<br>
+
+## Estrutura do projeto
+
+pet-match/
+├── public/
+│   └── assets/
+│       ├── images/
+│       ├── icons/
+│       └── fonts/
+├── src/
+│   ├── components/
+│   │   ├── PetMatchSwiper/
+│   │   ├── CardPet/
+│   │   ├── Button/
+│   │   └── ModalPetProfile/
+│   ├── context/
+│   ├── pages/
+│   │   ├── Home/
+│   │   └── PetProfile/
+│   ├── services/
+│   ├── styles/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── routes.jsx
+├── index.html
+├── package.json
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- Context API
+
+<br>
+<br>
+Este projeto é um exercício de UI/UX, lógica de swipe e gestão de estado com foco em performance e boas práticas de desenvolvimento frontend.
+└── vite.config.js
