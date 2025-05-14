@@ -1,0 +1,23 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem;
+  background-color: #FFF8F3;
+  min-height: 100vh;
+}
+
+.swiperSection {
+  width: 100%;
+  max-width: 600px;
+}
+
+@media (max-width: 480px) {
+  .home {
+    padding: 1.5rem 1rem;
+  }
+
+  .swiperSection {
+    max-width: 95%;
+  }
+}

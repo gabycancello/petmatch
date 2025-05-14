@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #FFB6C1;         /* Rosa claro */
+  --secondary-color: #FFDAB9;       /* Pêssego */
+  --accent-color: #87CEFA;          /* Azul claro */
+  --background-color: #FFF0F5;      /* Lavanda suave */
+  --text-color: #333;
+  --card-background: #ffffff;
+  --border-radius: 16px;
+  --box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  --transition-speed: 0.3s;
+  --font-family: 'Arial', sans-serif;
+}
