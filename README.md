@@ -91,4 +91,3 @@ pet-match/
 <br>
 <br>
 Este projeto é um exercício de UI/UX, lógica de swipe e gestão de estado com foco em performance e boas práticas de desenvolvimento frontend.
-└── vite.config.js
