@@ -33,28 +33,52 @@ Desenvolvido com **React**, **Vite** e **Framer Motion**, o projeto oferece uma 
 ## Estrutura do projeto
 
 pet-match/
+<br>
 ├── public/
+<br>
 │   └── assets/
+<br>
 │       ├── images/
+<br>
 │       ├── icons/
+<br>
 │       └── fonts/
+<br>
 ├── src/
+<br>
 │   ├── components/
+<br>
 │   │   ├── PetMatchSwiper/
+<br>
 │   │   ├── CardPet/
+<br>
 │   │   ├── Button/
+<br>
 │   │   └── ModalPetProfile/
+<br>
 │   ├── context/
+<br>
 │   ├── pages/
+<br>
 │   │   ├── Home/
+<br>
 │   │   └── PetProfile/
+<br>
 │   ├── services/
+<br>
 │   ├── styles/
+<br>
 │   ├── App.jsx
+<br>
 │   ├── main.jsx
+<br>
 │   └── routes.jsx
+<br>
 ├── index.html
+<br>
 ├── package.json
+<br>
+<br>
 
 ## 🛠️ Tecnologias Utilizadas
 
