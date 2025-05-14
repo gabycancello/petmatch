@@ -7,20 +7,20 @@ import pawFilled from '/assets/icons/paw-filled.jpg';
 import pawOutline from '/assets/icons/paw-outline.jpg';
 
 const likePhrases = [
-  'Esse tem meu coração!', 'Match peludinho!', 'Quero pra ontem!', 'É amor à primeira lambida!',
+  'Tem meu coração!', 'Match peludinho!', 'Quero pra ontem!', 'Amor à primeira lambida!',
   'Fofura aprovada!', 'Tô apaixonada(o)!', 'Vem comigo, nenê!', 'Awnnn, sim!', 'Meu novo parceiro!',
-  'Deu match no meu coração!', 'Te escolho, sempre!', 'Alma pet-gêmea?', 'Vem ser meu mascote!',
-  'Esse é o pet dos meus sonhos!', 'É ele(a)!', 'Me adota, pet!', 'Tá na minha!', 'Conexão real!',
-  'Coração bateu mais forte!', 'Já imaginei a gente junto!'
+  'Match no meu coração!', 'Te escolho, sempre!', 'Alma pet-gêmea?', 'Vem ser meu!',
+  'É você!', 'É ele(a)!', 'Me adota, pet!', 'Tá na minha!', 'Conexão real!',
+  'Coração bateu forte!', 'Imaginei a gente junto!'
 ];
 
 const nopePhrases = [
-  'Próximo fofuxo!', 'Ainda não foi dessa vez...', 'A busca continua!', 'Fica pro próximo match!',
-  'Fofo, mas não rolou.', 'Tchauzinho carinhoso!', 'Vamos conhecer outros?', 'Esse não despertou algo...',
-  'A amizade talvez?', 'Sigo procurando meu par ideal!', 'Fofura demais, mas não pra mim.',
-  'Ainda não senti o clique!', 'Pet fofo, mas passo!', 'Tem outros esperando por mim!',
-  'Obrigada, próximo pet!', 'Coração indeciso... pulo esse!', 'Não dessa vez, mascote.',
-  'A fila anda... de patas!', 'Deslizo pro lado com carinho!', 'Esse vai encontrar alguém incrível!'
+  'Próximo fofuxo!', 'Ainda não...', 'A busca continua!', 'Próximo match!',
+  'Fofo, mas não rolou.', 'Tchauzinho!', 'Outros?', 'Quase...',
+  'Amigos?', 'Sigo procurando!', 'Fofura demais, mas...',
+  'Não senti o clique!', 'Fofo, mas passo!', 'Tem outros esperando',
+  'Obrigada, próximo!', 'Coração indeciso...', 'Não dessa vez',
+  'A fila anda... de patas!', 'Deslizo pro lado!', 'Hoje não, bebê!'
 ];
 
 const PetMatchSwiper = ({ pets }) => {
