@@ -16,7 +16,7 @@ const likePhrases = [
 
 const nopePhrases = [
   'Próximo fofuxo!', 'Ainda não...', 'A busca continua!', 'Próximo match!',
-  'Fofo, mas não rolou.', 'Tchauzinho!', 'Outros?', 'Quase...',
+  'Não rolou.', 'Tchauzinho!', 'Outros?', 'Quase...',
   'Amigos?', 'Sigo procurando!', 'Fofura demais, mas...',
   'Não senti o clique!', 'Fofo, mas passo!', 'Tem outros esperando',
   'Obrigada, próximo!', 'Coração indeciso...', 'Não dessa vez',
