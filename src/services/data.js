@@ -21,13 +21,13 @@ export const petsData = [
   },
   {
     id: '3',
-    name: 'Mimi',
+    name: 'Brand',
     age: 1,
     breed: 'Persa',
     size: 'Pequeno',
     location: 'Brasil, Belo Horizonte - MG',
     image: '/assets/images/mimi.jpg',
-    description: 'Gatinha calma e amorosa.',
+    description: 'Ego de combustão.',
   },
   {
     id: '4',
@@ -91,7 +91,7 @@ export const petsData = [
   },
   {
     id: '10',
-    name: 'Morfeu',
+    name: 'Dimitrescu',
     age: 2,
     breed: 'Azul Russo',
     size: 'Médio',
