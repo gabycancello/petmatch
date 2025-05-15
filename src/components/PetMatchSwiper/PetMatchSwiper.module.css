@@ -13,7 +13,7 @@
   color: #FF7F9F;
   font-weight: bold;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-  font-family: 'Amatic CS', cursive;
+  font-family: 'Amatic CS';
   text-align: center;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .swipeHint {
-  font-family: 'Amatic CS', cursive;
+  font-family: 'Luna';
   font-size: 1.2rem;
   color: #7A8A9D;
   text-align: center;
